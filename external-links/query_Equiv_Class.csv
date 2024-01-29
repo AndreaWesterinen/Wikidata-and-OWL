@@ -27,6 +27,7 @@ http://www.wikidata.org/entity/Q103995117,https://schema.org/MedicalEntity
 http://www.wikidata.org/entity/Q10438042,http://dbpedia.org/ontology/BusCompany
 http://www.wikidata.org/entity/Q1043939,http://dbpedia.org/resource/Carnegie_library
 http://www.wikidata.org/entity/Q1043939,http://yago-knowledge.org/resource/Carnegie_library
+http://www.wikidata.org/entity/Q104481692,https://d-nb.info/standards/elementset/gnd#succeedingCorporateBody
 http://www.wikidata.org/entity/Q104514156,https://www.w3.org/ns/activitystreams#Profile
 http://www.wikidata.org/entity/Q1048337,http://purl.obolibrary.org/obo/ENVO_00000058
 http://www.wikidata.org/entity/Q1048525,http://dbpedia.org/ontology/GolfCourse
@@ -56,6 +57,7 @@ http://www.wikidata.org/entity/Q107123630,https://schema.org/CivicStructure
 http://www.wikidata.org/entity/Q107123630,https://www.schema.org/CivicStructure
 http://www.wikidata.org/entity/Q107154516,https://support.discogs.com/hc/en-us/articles/360005006654-Database-Guidelines-6-Format#Album_MiniAlbum_EP_MaxiSingle_And_Single
 http://www.wikidata.org/entity/Q107390,https://schema.org/State
+http://www.wikidata.org/entity/Q107435521,https://schema.org/MusicRecording
 http://www.wikidata.org/entity/Q107438826,http://wordnet-rdf.princeton.edu/pwn30/04449550-n
 http://www.wikidata.org/entity/Q1076052,https://schema.org/Preschool
 http://www.wikidata.org/entity/Q1076486,https://schema.org/SportsActivityLocation
@@ -65,6 +67,8 @@ http://www.wikidata.org/entity/Q108346082,https://schema.org/MusicAlbum
 http://www.wikidata.org/entity/Q1084,http://www.lexinfo.net/ontology/3.0/lexinfo#Noun
 http://www.wikidata.org/entity/Q10842936,http://dbpedia.org/ontology/RallyDriver
 http://www.wikidata.org/entity/Q10843402,http://dbpedia.org/ontology/Swimmer
+http://www.wikidata.org/entity/Q108492447,http://id.loc.gov/authorities/subjects/sh2008101400
+http://www.wikidata.org/entity/Q108492447,http://id.loc.gov/authorities/subjects/sh2008112096
 http://www.wikidata.org/entity/Q108502793,https://bioportal.bioontology.org/ontologies/OCHV?p=classes&conceptid=http%3A%2F%2Fsbmi.uth.tmc.edu%2Fontology%2Fochv%23C0684030
 http://www.wikidata.org/entity/Q108502793,https://uts.nlm.nih.gov/uts/umls/concept/C0242444
 http://www.wikidata.org/entity/Q10870555,https://schema.org/Report
@@ -139,6 +143,7 @@ http://www.wikidata.org/entity/Q1143604,http://swrc.ontoware.org/ontology#Procee
 http://www.wikidata.org/entity/Q1144312,https://schema.org/Car
 http://www.wikidata.org/entity/Q11446,http://live.dbpedia.org/ontology/Ship
 http://www.wikidata.org/entity/Q11446,http://rdf.muninn-project.org/ontologies/naval#Ship
+http://www.wikidata.org/entity/Q1145523,http://www.w3.org/ns/org#OrganizationalCollaboration
 http://www.wikidata.org/entity/Q11492760,http://cat.aii.caas.cn/concept/36687
 http://www.wikidata.org/entity/Q11492760,http://skos.um.es/unescothes/C01990
 http://www.wikidata.org/entity/Q11492760,http://www.eionet.europa.eu/gemet/concept/4309
@@ -197,6 +202,8 @@ http://www.wikidata.org/entity/Q121182,http://linkeddata.ge.imati.cnr.it:2020/re
 http://www.wikidata.org/entity/Q121182,http://www.eionet.europa.eu/gemet/concept/4311
 http://www.wikidata.org/entity/Q121306412,https://www.wikifunctions.org/wiki/Z1
 http://www.wikidata.org/entity/Q12136,http://dbpedia.org/ontology/Disease
+http://www.wikidata.org/entity/Q12136,http://id.nlm.nih.gov/mesh/vocab#SCR_Disease
+http://www.wikidata.org/entity/Q12139612,http://schema.org/ItemList
 http://www.wikidata.org/entity/Q12140,http://purl.obolibrary.org/obo/CHEBI_23888
 http://www.wikidata.org/entity/Q12140,https://schema.org/Drug
 http://www.wikidata.org/entity/Q12143,http://www.w3.org/2006/time#TimeZone
@@ -217,6 +224,7 @@ http://www.wikidata.org/entity/Q124059801,https://dbpedia.org/ontology/AmericanF
 http://www.wikidata.org/entity/Q124081236,https://schema.org/EntertainmentBusiness
 http://www.wikidata.org/entity/Q12420428,http://id.cabi.org/cabt/7123
 http://www.wikidata.org/entity/Q12420428,http://lemac.sgcb.mcu.es/Autoridades/LEMAC201200634/concept
+http://www.wikidata.org/entity/Q12453,http://purl.obolibrary.org/obo/IAO_0000414
 http://www.wikidata.org/entity/Q1248784,http://dbpedia.org/ontology/Airport
 http://www.wikidata.org/entity/Q1248784,https://schema.org/Airport
 http://www.wikidata.org/entity/Q12503,https://schema.org/Integer
@@ -245,6 +253,9 @@ http://www.wikidata.org/entity/Q128124,http://dbpedia.org/resource/Audio_enginee
 http://www.wikidata.org/entity/Q128124,http://fr.dbpedia.org/resource/Ingénieur_du_son
 http://www.wikidata.org/entity/Q1281422,http://performedmusicontology.org/ontology/MasterClass
 http://www.wikidata.org/entity/Q12819564,http://dbpedia.org/ontology/Station
+http://www.wikidata.org/entity/Q12819564,http://linkedgeodata.org/ontology/BusStation
+http://www.wikidata.org/entity/Q12819564,http://linkedgeodata.org/ontology/RailwayStation
+http://www.wikidata.org/entity/Q12819564,https://schema.org/BusStation
 http://www.wikidata.org/entity/Q1282114,http://purl.obolibrary.org/obo/HP_0002167
 http://www.wikidata.org/entity/Q12840545,http://dbpedia.org/ontology/HandballPlayer
 http://www.wikidata.org/entity/Q128751,https://schema.org/SoftwareSourceCode
@@ -321,6 +332,7 @@ http://www.wikidata.org/entity/Q1370598,http://dbpedia.org/ontology/ReligiousBui
 http://www.wikidata.org/entity/Q1370598,https://schema.org/PlaceOfWorship
 http://www.wikidata.org/entity/Q1376230,http://wordnet-rdf.princeton.edu/pwn30/06337111-n
 http://www.wikidata.org/entity/Q1390,http://dbpedia.org/ontology/Insect
+http://www.wikidata.org/entity/Q1391417,http://purl.org/spar/fabio/DisciplineDictionary
 http://www.wikidata.org/entity/Q1395196,https://schema.org/TaxiStand
 http://www.wikidata.org/entity/Q1402601,http://id.cabi.org/cabt/35073
 http://www.wikidata.org/entity/Q1402736,http://pcp-on-web.de/ontology#PrivateLecturer
@@ -377,6 +389,7 @@ http://www.wikidata.org/entity/Q1555508,http://dbpedia.org/ontology/RadioProgram
 http://www.wikidata.org/entity/Q156362,http://dbpedia.org/ontology/Winery
 http://www.wikidata.org/entity/Q156362,https://schema.org/Winery
 http://www.wikidata.org/entity/Q15636229,https://schema.org/SurgicalProcedure
+http://www.wikidata.org/entity/Q1569406,https://schema.org/MusicPlaylist
 http://www.wikidata.org/entity/Q15706911,http://comicmeta.org/cbo/Object
 http://www.wikidata.org/entity/Q15720793,http://comicmeta.org/cbo/Building
 http://www.wikidata.org/entity/Q1573906,http://performedmusicontology.org/ontology/ConcertTour
@@ -406,6 +419,7 @@ http://www.wikidata.org/entity/Q1622272,http://pcp-on-web.de/ontology#Lecturer
 http://www.wikidata.org/entity/Q16278103,http://dbpedia.org/ontology/SquashPlayer
 http://www.wikidata.org/entity/Q162827,http://bibliograph.net/Atlas
 http://www.wikidata.org/entity/Q162827,https://schema.org/Atlas
+http://www.wikidata.org/entity/Q16334295,http://iflastandards.info/ns/lrm/lrmer/E8
 http://www.wikidata.org/entity/Q16334295,http://terminology.lido-schema.org/actor_type/group_of_persons
 http://www.wikidata.org/entity/Q16334295,http://www.cidoc-crm.org/Entity/e74-group/version-6.2
 http://www.wikidata.org/entity/Q163727,http://pcp-on-web.de/ontology#Baccalaureus
@@ -458,10 +472,12 @@ http://www.wikidata.org/entity/Q169930,https://musicbrainz.org/doc/Release_Group
 http://www.wikidata.org/entity/Q17006368,http://dbpedia.org/resource/Campaign_button
 http://www.wikidata.org/entity/Q17006368,http://id.loc.gov/authorities/classification/cf94173892
 http://www.wikidata.org/entity/Q170201,https://schema.org/VeterinaryCare
+http://www.wikidata.org/entity/Q1707847,http://performedmusicontology.org/ontology/DramaticRole
 http://www.wikidata.org/entity/Q17098559,http://comicmeta.org/cbo/penciller
 http://www.wikidata.org/entity/Q1713,http://edamontology.org/data_0970
 http://www.wikidata.org/entity/Q1713,http://purl.org/spar/cito/Citation
 http://www.wikidata.org/entity/Q1713,https://schema.org/Quotation
+http://www.wikidata.org/entity/Q171341,http://cv.iptc.org/newscodes/genre/almanac
 http://www.wikidata.org/entity/Q17197366,http://www.w3.org/ns/org#FormalOrganization
 http://www.wikidata.org/entity/Q1722438,http://purl.obolibrary.org/obo/NCIT_C85863
 http://www.wikidata.org/entity/Q1722438,http://purl.obolibrary.org/obo/OMIT_0027778
@@ -571,6 +587,7 @@ http://www.wikidata.org/entity/Q191067,http://lsdis.cs.uga.edu/projects/semdis/o
 http://www.wikidata.org/entity/Q191067,http://ogp.me/#type_article
 http://www.wikidata.org/entity/Q191067,http://pcp-on-web.de/ontology#Article
 http://www.wikidata.org/entity/Q191067,http://purl.org/net/nknouf/ns/bibtex#Article
+http://www.wikidata.org/entity/Q191067,http://purl.org/ontology/bibo/AcademicArticle
 http://www.wikidata.org/entity/Q191067,http://purl.org/ontology/bibo/Article
 http://www.wikidata.org/entity/Q191067,http://semanticscience.org/resource/SIO_000154
 http://www.wikidata.org/entity/Q191067,https://schema.org/Article
@@ -584,8 +601,10 @@ http://www.wikidata.org/entity/Q1914636,https://www.w3.org/ns/activitystreams#Ac
 http://www.wikidata.org/entity/Q1914636,http://www.cidoc-crm.org/Entity/e7-activity/version-6.2
 http://www.wikidata.org/entity/Q191808,http://dbpedia/ontology/Religious
 http://www.wikidata.org/entity/Q1920566,https://schema.org/Answer
+http://www.wikidata.org/entity/Q1924747,http://purl.org/spar/fabio/MinimalInformationStandard
 http://www.wikidata.org/entity/Q192619,https://hist-arch-vocab.org/bvha#c_73f409e3
 http://www.wikidata.org/entity/Q1930187,http://dbpedia.org/ontology/Journalist
+http://www.wikidata.org/entity/Q193395,https://schema.org/MusicReleaseFormatType
 http://www.wikidata.org/entity/Q193663,http://purl.org/ontology/mo/MagneticTape
 http://www.wikidata.org/entity/Q193934,https://schema.org/Paperback
 http://www.wikidata.org/entity/Q193955,http://comicmeta.org/vocab/Hardcover
@@ -628,6 +647,7 @@ http://www.wikidata.org/entity/Q206287,https://schema.org/Quotation
 http://www.wikidata.org/entity/Q2064394,http://service.ddex.net/dd/DD-AVS-001/dd/ddex_Worldbeat
 http://www.wikidata.org/entity/Q20665666,http://vocab.org/evidence/terms/Conclusion
 http://www.wikidata.org/entity/Q207051,http://aims.fao.org/aos/agrovoc/c_36893
+http://www.wikidata.org/entity/Q207079,http://purl.org/heritagedata/schemes/eh_tbm/concepts/97716
 http://www.wikidata.org/entity/Q207137,http://lemac.sgcb.mcu.es/Autoridades/LEMAC201210862/concept
 http://www.wikidata.org/entity/Q207137,http://skos.um.es/unescothes/C00934
 http://www.wikidata.org/entity/Q20747295,http://purl.obolibrary.org/obo/SO_0001217
@@ -724,6 +744,7 @@ http://www.wikidata.org/entity/Q2393187,http://bioschemas.org/MolecularEntity
 http://www.wikidata.org/entity/Q2393314,https://schema.org/DanceGroup
 http://www.wikidata.org/entity/Q23956024,http://cidoc-crm.org/cidoc-crm/E92_Spacetime_Volume
 http://www.wikidata.org/entity/Q23958852,http://sw.opencyc.org/2012/05/10/concept/en/VariedOrderCollection
+http://www.wikidata.org/entity/Q23958946,http://id.loc.gov/ontologies/bibframe.html#c_Instance
 http://www.wikidata.org/entity/Q23958946,http://sw.opencyc.org/concept/Mx4rvVjaApwpEbGdrcN5Y29ycA
 http://www.wikidata.org/entity/Q23959932,http://sw.opencyc.org/2012/05/10/concept/en/FixedOrderCollection
 http://www.wikidata.org/entity/Q24016972,http://sw.opencyc.org/concept/Mx4rHIBS0h_TEdaAAABQ2rksLw
@@ -866,6 +887,9 @@ http://www.wikidata.org/entity/Q2990946,http://dbpedia.org/ontology/GolfTourname
 http://www.wikidata.org/entity/Q29937289,https://schema.org/DataCatalog
 http://www.wikidata.org/entity/Q29937289,http://www.w3.org/ns/dcat#Catalog
 http://www.wikidata.org/entity/Q29959484,http://id.loc.gov/authorities/classification/cf05477364
+http://www.wikidata.org/entity/Q300036,http://cv.iptc.org/newscodes/audiocodec/c109
+http://www.wikidata.org/entity/Q300036,http://cv.iptc.org/newscodes/audiocodec/c110
+http://www.wikidata.org/entity/Q300036,http://cv.iptc.org/newscodes/audiocodec/c111
 http://www.wikidata.org/entity/Q30022,https://schema.org/CafeOrCoffeeShop
 http://www.wikidata.org/entity/Q30124446,https://schema.org/LegislativeBuilding
 http://www.wikidata.org/entity/Q3016931,http://ontology.cybershare.utep.edu/ELSEWeb/elseweb-data.owl#Date
@@ -899,6 +923,7 @@ http://www.wikidata.org/entity/Q32039653,http://purl.obolibrary.org/obo/ECO_0000
 http://www.wikidata.org/entity/Q32112,http://dbpedia.org/ontology/Boxing
 http://www.wikidata.org/entity/Q3215290,http://purl.obolibrary.org/obo/ENVO_00000377
 http://www.wikidata.org/entity/Q3228788,http://pcp-on-web.de/ontology#PublicLecture
+http://www.wikidata.org/entity/Q3243461,http://comicmeta.org/cbo/Collector
 http://www.wikidata.org/entity/Q3243552,http://comicmeta.org/vocab/TradePaperback
 http://www.wikidata.org/entity/Q3253281,https://schema.org/Pond
 http://www.wikidata.org/entity/Q3257686,http://dbpedia.org/ontology/Locality
@@ -931,6 +956,7 @@ http://www.wikidata.org/entity/Q33837,http://dbpedia.org/ontology/Archipelago
 http://www.wikidata.org/entity/Q3387717,http://dbpedia.org/ontology/TheatreDirector
 http://www.wikidata.org/entity/Q33999,http://dbpedia.org/ontology/Actor
 http://www.wikidata.org/entity/Q340169,http://dbpedia.org/ontology/Media
+http://www.wikidata.org/entity/Q340169,http://performedmusicontology.org/ontology/DeclaredMedium
 http://www.wikidata.org/entity/Q34038,https://schema.org/Waterfall
 http://www.wikidata.org/entity/Q34379,http://id.loc.gov/ontologies/bibframe/MusicInstrument
 http://www.wikidata.org/entity/Q34379,http://performedmusicontology.org/ontology/IndividualMediumOfPerformance
@@ -1007,11 +1033,13 @@ http://www.wikidata.org/entity/Q380057,http://www.lexinfo.net/ontology/2.0/lexin
 http://www.wikidata.org/entity/Q380057,http://www.lexinfo.net/ontology/3.0/lexinfo#Adverb
 http://www.wikidata.org/entity/Q380141,https://schema.org/OccupationalTherapy
 http://www.wikidata.org/entity/Q380829,http://pcp-on-web.de/ontology#PrivateLibrary
+http://www.wikidata.org/entity/Q380962,http://www.w3.org/ns/org#OrganizationalCollaboration
 http://www.wikidata.org/entity/Q3813849,http://www.lexinfo.net/ontology/3.0/lexinfo#IndefiniteArticle
 http://www.wikidata.org/entity/Q382386,https://schema.org/Vessel
 http://www.wikidata.org/entity/Q3859833,https://schema.org/3DModel
 http://www.wikidata.org/entity/Q3863,http://dbpedia.org/ontology/Asteroid
 http://www.wikidata.org/entity/Q386724,http://dbpedia.org/ontology/Work
+http://www.wikidata.org/entity/Q386724,http://iflastandards.info/ns/lrm/lrmer/E2
 http://www.wikidata.org/entity/Q386724,https://d-nb.info/standards/elementset/gnd#Work
 http://www.wikidata.org/entity/Q38720,http://dbpedia.org/ontology/Windmill
 http://www.wikidata.org/entity/Q38723,https://schema.org/CollegeOrUniversity
@@ -1083,7 +1111,9 @@ http://www.wikidata.org/entity/Q4271324,http://dbpedia.org/ontology/Mythological
 http://www.wikidata.org/entity/Q42848,http://purl.bioontology.org/ontology/EDAM?conceptid=http%3A%2F%2Fedamontology.org%2Fdata_0006
 http://www.wikidata.org/entity/Q4287745,https://schema.org/MedicalOrganization
 http://www.wikidata.org/entity/Q42889,https://schema.org/Vehicle
+http://www.wikidata.org/entity/Q429785,http://data.semanticweb.org/ns/swc/ontology#Poster
 http://www.wikidata.org/entity/Q429785,https://schema.org/Poster
+http://www.wikidata.org/entity/Q429785,http://vivoweb.org/ontology/core#ConferencePoster
 http://www.wikidata.org/entity/Q43115,http://dbpedia.org/ontology/Saint
 http://www.wikidata.org/entity/Q431289,https://schema.org/Brand
 http://www.wikidata.org/entity/Q43229,http://dbpedia.org/ontology/Organisation
@@ -1104,6 +1134,8 @@ http://www.wikidata.org/entity/Q4344724,http://www.w3.org/2011/http#Request
 http://www.wikidata.org/entity/Q43501,http://dbpedia.org/ontology/Zoo
 http://www.wikidata.org/entity/Q43501,https://schema.org/Zoo
 http://www.wikidata.org/entity/Q4382945,https://schema.org/OnlineStore
+http://www.wikidata.org/entity/Q43845,https://www.yso.fi/onto/yso/p6406
+http://www.wikidata.org/entity/Q43845,https://www.yso.fi/onto/yso/p6407
 http://www.wikidata.org/entity/Q44,http://aims.fao.org/aos/agrovoc/c_864
 http://www.wikidata.org/entity/Q44,http://dbpedia.org/ontology/Beer
 http://www.wikidata.org/entity/Q4402708,https://schema.org/Demand
@@ -1157,6 +1189,7 @@ http://www.wikidata.org/entity/Q48277,http://www.w3.org/2006/vcard/ns#Gender
 http://www.wikidata.org/entity/Q48282,http://pcp-on-web.de/ontology#Student
 http://www.wikidata.org/entity/Q482994,http://dbpedia.org/ontology/Album
 http://www.wikidata.org/entity/Q482994,https://musicbrainz.org/doc/Release_Group/Type#Album
+http://www.wikidata.org/entity/Q482994,https://schema.org/MusicAlbum
 http://www.wikidata.org/entity/Q483110,https://schema.org/StadiumOrArena
 http://www.wikidata.org/entity/Q483130,http://data.europa.eu/bkc/017.03.01.0700
 http://www.wikidata.org/entity/Q483130,http://id.cabi.org/cabt/51293
@@ -1220,6 +1253,8 @@ http://www.wikidata.org/entity/Q5307737,https://schema.org/BarOrPub
 http://www.wikidata.org/entity/Q532,http://dbpedia.org/ontology/Village
 http://www.wikidata.org/entity/Q532,http://kbpedia.org/kko/rc/Village
 http://www.wikidata.org/entity/Q5341295,https://schema.org/EducationalOrganization
+http://www.wikidata.org/entity/Q5378,https://www.wikidata.org/wiki/Q270102
+http://www.wikidata.org/entity/Q5378,https://www.wikidata.org/wiki/Q5849
 http://www.wikidata.org/entity/Q5393308,https://schema.org/BuddhistTemple
 http://www.wikidata.org/entity/Q5398426,https://schema.org/TVSeries
 http://www.wikidata.org/entity/Q543,https://op.europa.eu/web/eu-vocabularies/concept/-/resource?uri=http://data.europa.eu/bkc/005.07.01.0050
@@ -1290,6 +1325,8 @@ http://www.wikidata.org/entity/Q63116,http://www.lexinfo.net/ontology/3.0/lexinf
 http://www.wikidata.org/entity/Q634,http://dbpedia.org/ontology/Planet
 http://www.wikidata.org/entity/Q6341928,http://purl.obolibrary.org/obo/ENVO_00000203
 http://www.wikidata.org/entity/Q635162,http://kbpedia.org/kko/rc/HominidaeFamily
+http://www.wikidata.org/entity/Q63755054,http://schema.org/GeneralContractor
+http://www.wikidata.org/entity/Q63755054,http://schema.org/RoofingContractor
 http://www.wikidata.org/entity/Q637600,http://purl.obolibrary.org/obo/ENVO_00000151
 http://www.wikidata.org/entity/Q64576680,http://purl.org/acco/ns#Accommodation
 http://www.wikidata.org/entity/Q64576680,https://schema.org/Accommodation
@@ -1319,6 +1356,12 @@ http://www.wikidata.org/entity/Q68,http://id.cabi.org/cabt/31374
 http://www.wikidata.org/entity/Q6817566,https://www.w3.org/ns/activitystreams#Mention
 http://www.wikidata.org/entity/Q683267,http://dbpedia.org/ontology/Treadmill
 http://www.wikidata.org/entity/Q6916469,http://id.cabi.org/cabt/75421
+http://www.wikidata.org/entity/Q69423232,http://metadataregistry.org/schemaprop/show/id/14249.html
+http://www.wikidata.org/entity/Q69423232,http://rdaregistry.info/Elements/e/elokuvanKasikirjoitusEkspressio.fi
+http://www.wikidata.org/entity/Q69423232,http://rdaregistry.info/Elements/e/filmmanuskriptUdtryk.da
+http://www.wikidata.org/entity/Q69423232,http://rdaregistry.info/Elements/e/motionPictureScreenplayExpression.en
+http://www.wikidata.org/entity/Q69423232,http://rdaregistry.info/Elements/e/σενάριοΚινηματογραφικήςΤαινίαςΈκφρασης.el
+http://www.wikidata.org/entity/Q69423232,http://www.rdaregistry.info/Elements/e/#P20158
 http://www.wikidata.org/entity/Q694975,https://schema.org/DigitalDocument
 http://www.wikidata.org/entity/Q69564,https://inspire.ec.europa.eu/codelist/EnvironmentalStratificationClassificationValue/BOR
 http://www.wikidata.org/entity/Q697295,http://dbpedia.org/ontology/Shrine
@@ -1342,10 +1385,12 @@ http://www.wikidata.org/entity/Q715301,http://comicmeta.org/cbo/Contributor
 http://www.wikidata.org/entity/Q7187,http://bioschemas.org/Gene
 http://www.wikidata.org/entity/Q7187,http://dbpedia.org/ontology/Gene
 http://www.wikidata.org/entity/Q7187,http://purl.obolibrary.org/obo/SO_0000704
+http://www.wikidata.org/entity/Q7189615,http://purl.org/dc/terms/PhysicalMedium
 http://www.wikidata.org/entity/Q7191,http://dbpedia.org/ontology/NobelPrize
 http://www.wikidata.org/entity/Q7216866,http://rdfs.org/sioc/ns#Post
 http://www.wikidata.org/entity/Q7216866,https://schema.org/SocialMediaPosting
 http://www.wikidata.org/entity/Q7216866,https://www.w3.org/ns/activitystreams#Note
+http://www.wikidata.org/entity/Q7239,http://id.nlm.nih.gov/mesh/vocab#SCR_Organism
 http://www.wikidata.org/entity/Q7239,http://kbpedia.org/kko/rc/Organism-Whole
 http://www.wikidata.org/entity/Q725377,http://comicmeta.org/vocab/GraphicNovel
 http://www.wikidata.org/entity/Q7257,http://dbpedia.org/ontology/Ideology
@@ -1377,6 +1422,10 @@ http://www.wikidata.org/entity/Q7380,http://kbpedia.org/kko/rc/Primate
 http://www.wikidata.org/entity/Q7397,http://dbpedia.org/ontology/Software
 http://www.wikidata.org/entity/Q7397,http://purl.org/dc/dcmitype/Software
 http://www.wikidata.org/entity/Q7406919,http://purl.org/dc/dcmitype/Service
+http://www.wikidata.org/entity/Q7406919,https://schema.org/CableOrSatelliteService
+http://www.wikidata.org/entity/Q7406919,https://schema.org/CurrencyConversionService
+http://www.wikidata.org/entity/Q7406919,https://schema.org/GovernmentService
+http://www.wikidata.org/entity/Q7406919,https://schema.org/PaymentService
 http://www.wikidata.org/entity/Q7406919,https://schema.org/Service
 http://www.wikidata.org/entity/Q740752,https://dbpedia.org/ontology/PublicTransitSystem
 http://www.wikidata.org/entity/Q7432,http://purl.uniprot.org/core/Species
@@ -1398,13 +1447,19 @@ http://www.wikidata.org/entity/Q76470,https://schema.org/OutletStore
 http://www.wikidata.org/entity/Q7725310,http://bibliograph.net/PublicationSeries
 http://www.wikidata.org/entity/Q7725310,https://schema.org/CreativeWorkSeries
 http://www.wikidata.org/entity/Q7777019,http://purl.obolibrary.org/obo/ENVO_00000108
+http://www.wikidata.org/entity/Q783521,http://id.loc.gov/ontologies/bibframe/AbbreviatedTitle
+http://www.wikidata.org/entity/Q783521,http://id.loc.gov/ontologies/bibframe/CollectiveTitle
+http://www.wikidata.org/entity/Q783521,http://id.loc.gov/ontologies/bibframe/KeyTitle
+http://www.wikidata.org/entity/Q783521,http://id.loc.gov/ontologies/bibframe/ParallelTitle
 http://www.wikidata.org/entity/Q783521,http://id.loc.gov/ontologies/bibframe/Title
+http://www.wikidata.org/entity/Q783521,http://id.loc.gov/ontologies/bibframe/VariantTitle
 http://www.wikidata.org/entity/Q7889,http://dbpedia.org/ontology/VideoGame
 http://www.wikidata.org/entity/Q7889,https://schema.org/VideoGame
 http://www.wikidata.org/entity/Q7900097,http://yago-knowledge.org/resource/Urban_beach
 http://www.wikidata.org/entity/Q79007,http://dbpedia.org/ontology/Street
 http://www.wikidata.org/entity/Q7946,http://dbpedia.org/ontology/Mineral
 http://www.wikidata.org/entity/Q79529,http://bioschemas.org/ChemicalSubstance
+http://www.wikidata.org/entity/Q79529,http://id.nlm.nih.gov/mesh/vocab#SCR_Chemical
 http://www.wikidata.org/entity/Q79529,http://purl.obolibrary.org/obo/CHEBI_59999
 http://www.wikidata.org/entity/Q796194,https://schema.org/MedicalProcedure
 http://www.wikidata.org/entity/Q79719,http://purl.org/dc/terms/license
@@ -1486,6 +1541,7 @@ http://www.wikidata.org/entity/Q8719053,https://schema.org/MusicVenue
 http://www.wikidata.org/entity/Q874411,http://d3fend.mitre.org/ontologies/d3fend.owl#BrowserExtension
 http://www.wikidata.org/entity/Q875157,http://purl.org/acco/ns#Resort
 http://www.wikidata.org/entity/Q875157,https://schema.org/Resort
+http://www.wikidata.org/entity/Q875241,http://id.loc.gov/authorities/subjects/sh85090740
 http://www.wikidata.org/entity/Q878041,https://schema.org/MedicalGuideline
 http://www.wikidata.org/entity/Q879146,http://pcp-on-web.de/ontology#Denomination
 http://www.wikidata.org/entity/Q886837,https://schema.org/BloodTest

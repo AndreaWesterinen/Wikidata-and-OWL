@@ -14,6 +14,7 @@ http://www.wikidata.org/entity/Q10384,http://www.wikidata.org/prop/direct/P2888,
 http://www.wikidata.org/entity/Q10438042,http://www.wikidata.org/prop/direct/P1709,http://dbpedia.org/ontology/BusCompany
 http://www.wikidata.org/entity/Q1043939,http://www.wikidata.org/prop/direct/P1709,http://dbpedia.org/resource/Carnegie_library
 http://www.wikidata.org/entity/Q1043939,http://www.wikidata.org/prop/direct/P1709,http://yago-knowledge.org/resource/Carnegie_library
+http://www.wikidata.org/entity/Q104481692,http://www.wikidata.org/prop/direct/P3950,https://d-nb.info/standards/elementset/gnd#succeedingCorporateBody
 http://www.wikidata.org/entity/Q105011746,http://www.wikidata.org/prop/direct/P2888,https://player.fm/podcasts/blockchain
 http://www.wikidata.org/entity/Q105011746,http://www.wikidata.org/prop/direct/P2888,https://player.fm/podcasts/Cryptocurrency
 http://www.wikidata.org/entity/Q105011746,http://www.wikidata.org/prop/direct/P2888,https://www.listennotes.com/best-crypto-blockchain-podcasts-136/
@@ -72,7 +73,6 @@ http://www.wikidata.org/entity/Q11892507,http://www.wikidata.org/prop/direct/P17
 http://www.wikidata.org/entity/Q1193236,http://www.wikidata.org/prop/direct/P2888,https://schema.org/NewsMediaOrganization
 http://www.wikidata.org/entity/Q1195245,http://www.wikidata.org/prop/direct/P1709,https://schema.org/BeautySalon
 http://www.wikidata.org/entity/Q1196129,http://www.wikidata.org/prop/direct/P1709,http://www.w3.org/2006/vcard/ns#Spouse
-http://www.wikidata.org/entity/Q1198887,http://www.wikidata.org/prop/direct/P1709,http://dbpedia.org/ontology/MusicDirector
 http://www.wikidata.org/entity/Q1200502,http://www.wikidata.org/prop/direct/P2888,http://www.treccani.it/enciclopedia/desaparecidos_(Dizionario-di-Storia)
 http://www.wikidata.org/entity/Q12045647,http://www.wikidata.org/prop/direct/P2888,https://patents.google.com/?q=E04H4/0012
 http://www.wikidata.org/entity/Q120647861,http://www.wikidata.org/prop/direct/P1709,https://schema.org/LodgingBusiness
@@ -323,6 +323,7 @@ http://www.wikidata.org/entity/Q31374404,http://www.wikidata.org/prop/direct/P17
 http://www.wikidata.org/entity/Q3153117,http://www.wikidata.org/prop/direct/P1709,http://dbpedia.org/ontology/Intercommunality
 http://www.wikidata.org/entity/Q318693,http://www.wikidata.org/prop/direct/P2888,http://publications.europa.eu/resource/authority/corporate-body/CSTO
 http://www.wikidata.org/entity/Q3231410,http://www.wikidata.org/prop/direct/P2888,http://purl.obolibrary.org/obo/ENVO_01000970
+http://www.wikidata.org/entity/Q3243461,http://www.wikidata.org/prop/direct/P3950,http://comicmeta.org/cbo/Collector
 http://www.wikidata.org/entity/Q327333,http://www.wikidata.org/prop/direct/P1709,http://dbpedia.org/ontology/GovernmentAgency
 http://www.wikidata.org/entity/Q3282637,http://www.wikidata.org/prop/direct/P1709,http://dbpedia.org/ontology/Producer
 http://www.wikidata.org/entity/Q3303463,http://www.wikidata.org/prop/direct/P2888,http://purl.obolibrary.org/obo/ENVO_01000971
@@ -368,6 +369,7 @@ http://www.wikidata.org/entity/Q3736439,http://www.wikidata.org/prop/direct/P288
 http://www.wikidata.org/entity/Q3778211,http://www.wikidata.org/prop/direct/P1709,http://www.cidoc-crm.org/Entity/e40-legal-body/version-6.2
 http://www.wikidata.org/entity/Q378622,http://www.wikidata.org/prop/direct/P1709,http://dbpedia.org/ontology/RacingDriver
 http://www.wikidata.org/entity/Q380829,http://www.wikidata.org/prop/direct/P1709,http://pcp-on-web.de/ontology#PrivateLibrary
+http://www.wikidata.org/entity/Q380962,http://www.wikidata.org/prop/direct/P3950,http://www.w3.org/ns/org#OrganizationalCollaboration
 http://www.wikidata.org/entity/Q386120,http://www.wikidata.org/prop/direct/P2888,http://publications.europa.eu/resource/authority/corporate-body/UNIDO
 http://www.wikidata.org/entity/Q38723,http://www.wikidata.org/prop/direct/P1709,https://schema.org/CollegeOrUniversity
 http://www.wikidata.org/entity/Q3914,http://www.wikidata.org/prop/direct/P1709,http://data.culture.fr/thesaurus/page/ark:/67717/T1-1340
@@ -414,6 +416,8 @@ http://www.wikidata.org/entity/Q43501,http://www.wikidata.org/prop/direct/P1709,
 http://www.wikidata.org/entity/Q43501,http://www.wikidata.org/prop/direct/P1709,https://schema.org/Zoo
 http://www.wikidata.org/entity/Q43501,http://www.wikidata.org/prop/direct/P2888,http://purl.obolibrary.org/obo/ENVO_00010625
 http://www.wikidata.org/entity/Q4382945,http://www.wikidata.org/prop/direct/P1709,https://schema.org/OnlineStore
+http://www.wikidata.org/entity/Q43845,http://www.wikidata.org/prop/direct/P3950,https://www.yso.fi/onto/yso/p6406
+http://www.wikidata.org/entity/Q43845,http://www.wikidata.org/prop/direct/P3950,https://www.yso.fi/onto/yso/p6407
 http://www.wikidata.org/entity/Q4438121,http://www.wikidata.org/prop/direct/P1709,https://schema.org/SportsOrganization
 http://www.wikidata.org/entity/Q44613,http://www.wikidata.org/prop/direct/P1709,http://dbpedia.org/ontology/Monastery
 http://www.wikidata.org/entity/Q44613,http://www.wikidata.org/prop/direct/P2888,http://wordnet-rdf.princeton.edu/wn30/03781244-n
@@ -466,6 +470,8 @@ http://www.wikidata.org/entity/Q623109,http://www.wikidata.org/prop/direct/P2888
 http://www.wikidata.org/entity/Q628099,http://www.wikidata.org/prop/direct/P1709,http://dbpedia.org/ontology/SoccerManager
 http://www.wikidata.org/entity/Q62849941,http://www.wikidata.org/prop/direct/P1709,https://schema.org/LocalBusiness
 http://www.wikidata.org/entity/Q62849941,http://www.wikidata.org/prop/direct/P1709,https://www.schema.org/LocalBusiness
+http://www.wikidata.org/entity/Q63755054,http://www.wikidata.org/prop/direct/P3950,http://schema.org/GeneralContractor
+http://www.wikidata.org/entity/Q63755054,http://www.wikidata.org/prop/direct/P3950,http://schema.org/RoofingContractor
 http://www.wikidata.org/entity/Q637776,http://www.wikidata.org/prop/direct/P2888,http://purl.obolibrary.org/obo/ENVO_00003862
 http://www.wikidata.org/entity/Q6501447,http://www.wikidata.org/prop/direct/P1709,http://dbpedia.org/resource/Local_government
 http://www.wikidata.org/entity/Q6501447,http://www.wikidata.org/prop/direct/P1709,http://lemac.sgcb.mcu.es/Autoridades/LEMAC201220789/concept
@@ -478,6 +484,12 @@ http://www.wikidata.org/entity/Q6631808,http://www.wikidata.org/prop/direct/P170
 http://www.wikidata.org/entity/Q674182,http://www.wikidata.org/prop/direct/P2888,http://publications.europa.eu/resource/authority/corporate-body/COU_ARCTIC
 http://www.wikidata.org/entity/Q67883649,http://www.wikidata.org/prop/direct/P2888,https://schema.org/Nonprofit501c1
 http://www.wikidata.org/entity/Q679206,http://www.wikidata.org/prop/direct/P1709,http://www.w3.org/ns/org#OrganizationalUnit
+http://www.wikidata.org/entity/Q69423232,http://www.wikidata.org/prop/direct/P3950,http://metadataregistry.org/schemaprop/show/id/14249.html
+http://www.wikidata.org/entity/Q69423232,http://www.wikidata.org/prop/direct/P3950,http://rdaregistry.info/Elements/e/elokuvanKasikirjoitusEkspressio.fi
+http://www.wikidata.org/entity/Q69423232,http://www.wikidata.org/prop/direct/P3950,http://rdaregistry.info/Elements/e/filmmanuskriptUdtryk.da
+http://www.wikidata.org/entity/Q69423232,http://www.wikidata.org/prop/direct/P3950,http://rdaregistry.info/Elements/e/motionPictureScreenplayExpression.en
+http://www.wikidata.org/entity/Q69423232,http://www.wikidata.org/prop/direct/P3950,http://rdaregistry.info/Elements/e/σενάριοΚινηματογραφικήςΤαινίαςΈκφρασης.el
+http://www.wikidata.org/entity/Q69423232,http://www.wikidata.org/prop/direct/P3950,http://www.rdaregistry.info/Elements/e/#P20158
 http://www.wikidata.org/entity/Q703534,http://www.wikidata.org/prop/direct/P1709,http://swrc.ontoware.org/ontology#Employee
 http://www.wikidata.org/entity/Q7075,http://www.wikidata.org/prop/direct/P1709,http://cat.aii.caas.cn/concept/45625
 http://www.wikidata.org/entity/Q7075,http://www.wikidata.org/prop/direct/P1709,http://dati.beniculturali.it/cis/Library
@@ -525,7 +537,6 @@ http://www.wikidata.org/entity/Q875157,http://www.wikidata.org/prop/direct/P1709
 http://www.wikidata.org/entity/Q879146,http://www.wikidata.org/prop/direct/P1709,http://pcp-on-web.de/ontology#Denomination
 http://www.wikidata.org/entity/Q8880,http://www.wikidata.org/prop/direct/P2888,http://data.europa.eu/euodp/en/data/publisher/com
 http://www.wikidata.org/entity/Q8880,http://www.wikidata.org/prop/direct/P2888,http://publications.europa.eu/resource/authority/corporate-body/COM
-http://www.wikidata.org/entity/Q8882,http://www.wikidata.org/prop/direct/P2888,http://publications.europa.eu/resource/authority/corporate-body/COM_PRES
 http://www.wikidata.org/entity/Q901,http://www.wikidata.org/prop/direct/P1709,http://dbpedia.org/ontology/Scientist
 http://www.wikidata.org/entity/Q902104,http://www.wikidata.org/prop/direct/P1709,http://dbpedia.org/resource/Private_university
 http://www.wikidata.org/entity/Q902104,http://www.wikidata.org/prop/direct/P1709,https://global.dbpedia.org/id/53g3J
